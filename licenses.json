@@ -1,15 +1,15 @@
 {
   "LIC-SDEG-P5DN": {
+    "ip": "127.0.0.1",
     "expiry": "2026-03-03T23:59:59",
     "enabled": true,
-    "ip": "10.88.151.107",
-    "note": "SvName"
+    "note": "Test server"
   },
 
-  "LIC-ABCD-1234": {
-    "expiry": "2025-12-01T23:59:59",
+  "LIC-AAAA-BBBB": {
+    "ip": "5.10.20.30",
+    "expiry": "2025-12-01T00:00:00",
     "enabled": false,
-    "ip": "46.245.123.10",
-    "note": "SvName"
+    "note": "Expired / disabled"
   }
 }
