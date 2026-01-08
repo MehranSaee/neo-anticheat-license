@@ -1,6 +1,19 @@
 {
   "LIC-SDEG-P5DN": {
-    "expiry": "03-03-2026T23:59:59",
-    "enabled": true
+    "expiry": "2026-03-03T23:59:59",
+    "enabled": true,
+    "ip": "185.10.75.21"
+  },
+
+  "LIC-ABCD-1234": {
+    "expiry": "2025-12-01T23:59:59",
+    "enabled": true,
+    "ip": "46.245.123.10"
+  },
+
+  "LIC-ZXCV-9999": {
+    "expiry": "2026-06-15T23:59:59",
+    "enabled": false,
+    "ip": "192.168.1.50"
   }
 }
